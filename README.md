@@ -9,18 +9,8 @@ This effort at REACHnet builds on the [Cajun Codefest 4.0](http://www.cajuncodef
 Endpoint: [https://demo.hioh.org/srv-dstu2-0.3/api](https://demo.hioh.org/srv-dstu2-0.3/api)
 
 Number of patients: 300
-###list of resources
 
-## How to import data in PCORNet CDM format into i2b2?
-
-## Contact and mailing list
-
-##[Cajun Codefest 4.0](http://www.cajuncodefest.org/index.php/event-info/competition-rules)
---summary of the codefest
-
-
-
-##CODEATHON INSTRUCTION MATERIAL
+###CODEATHON INSTRUCTION MATERIAL
 
 **Contents** 
 
@@ -123,3 +113,11 @@ https://demo.hioh.org/srv-dstu2-0.3/api/Condition?patient={patient_id}
 
 [Diabetes app](https://demo.hioh.org/applib-dstu21-0.3/diabetes-monograph/launch.html?iss=https://demo.hioh.org/srv-dstu2-0.3/api)
 This app was ported from the SMART-App gallery.
+
+## How to import data in PCORNet CDM format into i2b2?
+
+## Contact and mailing list
+
+##[Cajun Codefest 4.0](http://www.cajuncodefest.org/index.php/event-info/competition-rules)
+--summary of the codefest
+
