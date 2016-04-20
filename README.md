@@ -56,21 +56,16 @@ To configure it for your browser, please follow the below steps:
 
 1. To install it from internet please navigate to:
 https://addons.mozilla.org/en-US/firefox/addon/restclient/
-
 2. Click on “Add to Firefox”
-
 3. Once the installation is complete, restart the Firefox browser
-
 4. Click on the REST client logo in the toolbar as shown below
 
 **3. Adding token to the header**
 
 1. Click on the “Headers” present in the top bar and select “Custom Headers”
-
 2. You need to add the token as a header field
 Name: Authorization
 Value: Bearer {tokenstring}
-
 3. Click on Okay
 
 **4. API’s**
